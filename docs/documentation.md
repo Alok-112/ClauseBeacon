@@ -72,8 +72,8 @@ This document explains the **system design, roles, and responsibilities** so eac
   * `/process` → run Document AI + Gemini 1.5
   * `/results` → send processed data to frontend
 * Handle authentication with Google Cloud
-* Fast API and Uvicorn
-* * FastAPI , Pydantic(Data Schemas)
+* Fast API , Uvicorn Pydantic(Data Schemas)
+
 
 ### **AI Layer** (Google Cloud)
 
