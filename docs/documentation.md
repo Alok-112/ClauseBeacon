@@ -53,6 +53,7 @@ This document explains the **system design, roles, and responsibilities** so eac
                    → [Vertex AI (Gemini 1.5)] → Summarize/Analyze
                    → [Return JSON Results] → [Streamlit UI]
 ```
+![architecture](../public/architecture.png)
 
 ---
 
