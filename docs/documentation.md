@@ -73,6 +73,7 @@ This document explains the **system design, roles, and responsibilities** so eac
   * `/results` → send processed data to frontend
 * Handle authentication with Google Cloud
 * Fast API and Uvicorn
+* * FastAPI , Pydantic(Data Schemas)
 
 ### **AI Layer** (Google Cloud)
 
